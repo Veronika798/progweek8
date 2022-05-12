@@ -1,0 +1,16 @@
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.exe
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.deps.json
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.runtimeconfig.json
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.runtimeconfig.dev.json
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\bin\Debug\net5.0\ref\FridayNightRandomReturn.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.pdb
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.csproj.AssemblyReference.cache
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.AssemblyInfo.cs
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\obj\Debug\net5.0\ref\FridayNightRandomReturn.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.pdb
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.genruntimeconfig.cache

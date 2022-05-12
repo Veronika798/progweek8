@@ -1,0 +1,16 @@
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\bin\Debug\net5.0\PickrandomefromFile.exe
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\bin\Debug\net5.0\PickrandomefromFile.deps.json
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\bin\Debug\net5.0\PickrandomefromFile.runtimeconfig.json
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\bin\Debug\net5.0\PickrandomefromFile.runtimeconfig.dev.json
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\bin\Debug\net5.0\PickrandomefromFile.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\bin\Debug\net5.0\ref\PickrandomefromFile.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\bin\Debug\net5.0\PickrandomefromFile.pdb
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\obj\Debug\net5.0\PickrandomefromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\obj\Debug\net5.0\PickrandomefromFile.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\obj\Debug\net5.0\PickrandomefromFile.AssemblyInfo.cs
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\obj\Debug\net5.0\PickrandomefromFile.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\obj\Debug\net5.0\PickrandomefromFile.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\obj\Debug\net5.0\ref\PickrandomefromFile.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\obj\Debug\net5.0\PickrandomefromFile.pdb
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\obj\Debug\net5.0\PickrandomefromFile.genruntimeconfig.cache
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\PickrandomefromFile\obj\Debug\net5.0\PickrandomefromFile.csproj.AssemblyReference.cache

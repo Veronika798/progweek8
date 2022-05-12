@@ -1,0 +1,16 @@
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\obj\Debug\net5.0\functionreturnandarrayfromfile.csproj.AssemblyReference.cache
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\obj\Debug\net5.0\functionreturnandarrayfromfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\obj\Debug\net5.0\functionreturnandarrayfromfile.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\obj\Debug\net5.0\functionreturnandarrayfromfile.AssemblyInfo.cs
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\obj\Debug\net5.0\functionreturnandarrayfromfile.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\bin\Debug\net5.0\functionreturnandarrayfromfile.exe
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\bin\Debug\net5.0\functionreturnandarrayfromfile.deps.json
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\bin\Debug\net5.0\functionreturnandarrayfromfile.runtimeconfig.json
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\bin\Debug\net5.0\functionreturnandarrayfromfile.runtimeconfig.dev.json
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\bin\Debug\net5.0\functionreturnandarrayfromfile.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\bin\Debug\net5.0\ref\functionreturnandarrayfromfile.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\bin\Debug\net5.0\functionreturnandarrayfromfile.pdb
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\obj\Debug\net5.0\functionreturnandarrayfromfile.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\obj\Debug\net5.0\ref\functionreturnandarrayfromfile.dll
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\obj\Debug\net5.0\functionreturnandarrayfromfile.pdb
+C:\Users\veron\source\repos\functionreturnandarrayfromfile\functionreturnandarrayfromfile\obj\Debug\net5.0\functionreturnandarrayfromfile.genruntimeconfig.cache
